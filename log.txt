@@ -1,0 +1,20 @@
+R'T0: AR <- PC
+R'T1: IR <- M[AR], PC <- PC + 1
+R'T2: AR <- IR(0-11)
+D7I'T3B5: AC <- AC + 1, SC <- 0
+R'T0: AR <- PC
+R'T1: IR <- M[AR], PC <- PC + 1
+R'T2: AR <- IR(0-11)
+D7I'T3B5: AC <- AC + 1, SC <- 0
+R'T0: AR <- PC
+R'T1: IR <- M[AR], PC <- PC + 1
+R'T2: AR <- IR(0-11)
+D7I'T3B5: AC <- AC + 1, SC <- 0
+R'T0: AR <- PC
+R'T1: IR <- M[AR], PC <- PC + 1
+R'T2: AR <- IR(0-11)
+D7I'T3B5: AC <- AC + 1, SC <- 0
+R'T0: AR <- PC
+R'T1: IR <- M[AR], PC <- PC + 1
+R'T2: AR <- IR(0-11)
+D7I'T3B0: S <- 0, SC <- 0
